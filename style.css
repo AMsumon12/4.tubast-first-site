@@ -13,6 +13,7 @@ span {
 
 section {
     display: flex;
+    margin-bottom: 70px;
 }
 
 .hald-width {
@@ -40,4 +41,10 @@ section {
 /* .top-banner {
     background-image: url(image/bg5.png);
     background-repeat: no-repeat;
+} */
+/* 
+.dreamBig {
+    background-image: url(image/bg4.png);
+    background-repeat: no-repeat;
+    background-position: right;
 } */
