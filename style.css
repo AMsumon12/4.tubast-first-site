@@ -1,13 +1,43 @@
 body {
-    font-family: 'Mochiy Pop One', sans-serif;
     font-family: 'Paprika', cursive;
-    font-family: 'Poppins', sans-serif;
-}
-
-.orange {
-    color: orange;
+    margin: 0;
 }
 
 h1 {
-    font-weight: 700;
+    font-size: 50px;
 }
+
+span {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.hald-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.hald-width img {
+    width: 80%;
+}
+
+.hald-width img2 {
+    width: 5%;
+}
+
+.link-button {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+/* .top-banner {
+    background-image: url(image/bg5.png);
+    background-repeat: no-repeat;
+} */
